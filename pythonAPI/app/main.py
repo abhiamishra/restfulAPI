@@ -32,4 +32,4 @@ app.include_router(vote.router)
 @app.get("/")
 #Function for the decorator
 def root():
-    return {"message": "Welcome to My_API"}
+    return {"message": "Welcome to My API"}
