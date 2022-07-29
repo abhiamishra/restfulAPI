@@ -173,3 +173,11 @@ Standard convention is for a resource, use plural names (posts not post, users n
 - Database migrations allow to incrementally track changes to schema and rollback changes to any point in time
 - Alembic is the tool
 - Alembic can automatically pull database models from SQLAlchemy and generate the proper tables
+- upgrade() -> runs commands for creating databases
+- downgrade() -> handle removing tables, creation, rolling it back
+    - both are essentially manual
+
+# Pre - Deployment Checklist
+- POSTMAN only sends requests from your own computer
+
+
