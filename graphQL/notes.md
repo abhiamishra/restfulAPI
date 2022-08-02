@@ -28,3 +28,10 @@
     - More complex to fetch data 
     - Harder to cache and rate limit
     - Request monitoring
+
+
+# Pictures of Final Product
+![image](https://user-images.githubusercontent.com/52009380/182265030-a2c950cc-79d6-4842-94e9-7da9f18259bf.png)
+![image](https://user-images.githubusercontent.com/52009380/182265036-34d9437a-5338-4043-959a-7d2087ecb6ae.png)
+![image](https://user-images.githubusercontent.com/52009380/182265045-98ac5792-bc32-4ebb-b543-8c88a59d5055.png)
+
